@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CartoGraft Privacy Policy</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
+        h1 { color: #333; }
+        h2 { color: #666; margin-top: 30px; }
+        p { line-height: 1.6; }
+    </style>
+</head>
+<body>
+    <h1>CartoGraft Privacy Policy</h1>
+    <p><strong>Last updated:</strong> [Current Date]</p>
+
+    <h2>Information We Collect</h2>
+    <p>CartoGraft is designed to protect your privacy. All data is stored locally on your device:</p>
+    <ul>
+        <li>World maps and screenshots you upload</li>
+        <li>Markers and locations you create</li>
+        <li>App settings and preferences</li>
+    </ul>
+
+    <h2>How We Use Information</h2>
+    <p>All data remains on your device and is used solely to:</p>
+    <ul>
+        <li>Display your Minecraft world maps</li>
+        <li>Save your markers and custom locations</li>
+        <li>Remember your app preferences</li>
+    </ul>
+
+    <h2>Data Sharing</h2>
+    <p>We do not collect, transmit, or share any personal data. All information stays on your device.</p>
+
+    <h2>Children's Privacy</h2>
+    <p>Our app does not collect any personal information from children under 13. All data processing occurs locally on the device.</p>
+
+    <h2>Data Security</h2>
+    <p>Your data is stored securely on your device using standard mobile app storage practices.</p>
+
+    <h2>Contact</h2>
+    <p>If you have questions about this privacy policy, contact us at: [your-email@example.com]</p>
+
+    <h2>Changes to This Policy</h2>
+    <p>We may update this privacy policy from time to time. We will notify users of any changes by updating the "Last updated" date.</p>
+</body>
+</html>
